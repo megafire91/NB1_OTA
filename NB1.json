@@ -1,0 +1,30 @@
+{
+  "response": [
+    {
+        "maintainer": "Marcel Dos Santos",
+        "oem": "Nokia",
+        "device": "Nokia 8",
+        "filename": "Cherish-OS-v3.9.5-20220809-1553-NB1-UNOFFICIAL-GApps.zip",
+        "download": "https://github.com/megafire91/NB1-CherishOS_Releases/releases/Cherish-OS-v3.9.5-20220809-1553-NB1-UNOFFICIAL-GApps.zip",
+        "timestamp": 1660060432,
+        "security-patch-level": "2022-04-05",
+        "md5": "789ce578bd5ec5a40b616de182b3bc4b",
+        "sha256": "f3644ffc2d2ffcfa3b05d1b81c1e76357d3b5417ca70bb4015e950f09688f5d8",
+        "size": 1458593469,
+        "version": "1553.1553",
+        "buildtype": "Monthly",
+        "forum": "",
+        "gapps": "https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-S",
+        "firmware": "https://easy-firmware.com/index.php?a=downloads&b=folder&id=48909",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "https://www.paypal.me/marceldossantos91",
+        "telegram": "https://t.me/marceldossantos91",
+        "dt": "https://github.com/megafire91/device_nokia_NB1",
+        "common-dt": "https://github.com/PixelExperience-Devices/kernel_nokia_msm8998",
+        "kernel": "https://github.com/PixelExperience-Devices/kernel_nokia_msm8998",
+        "vendor": "https://github.com/GPUCode/vendor_nokia_NB1"
+    }
+  ]
+}
